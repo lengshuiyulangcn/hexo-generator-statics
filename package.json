@@ -1,0 +1,21 @@
+{
+  "name": "hexo-generator-statics",
+  "version": "0.0.1",
+  "description": "copy static assets into public folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "hexo",
+    "generator",
+    "statics"
+  ],
+  "author": "gyorou",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^4.2.0"
+  }
+}
