@@ -5,7 +5,7 @@ const path = require("path");
 
 hexo.extend.generator.register("statics", function(){
 
-  let statics_dir = config.statics_dir;
+  let statics_dir = config.statics_dir || "statics";
   let files = fs.listDirSync("statics");
   return files.map(function(file){
     return  {
