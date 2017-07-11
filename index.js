@@ -1,4 +1,3 @@
-const hexo = hexo || {};
 const config = hexo.config;
 const fs = require("hexo-fs");
 const path = require("path");
