@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-statics",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "copy static assets into public folder",
   "main": "index.js",
   "scripts": {
